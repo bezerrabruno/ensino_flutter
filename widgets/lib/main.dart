@@ -13,8 +13,7 @@ class AppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Calculadora Visual',
-      theme: ThemeData.dark(),
-      themeMode: ThemeMode.dark,
+      theme: ThemeData(primaryColor: Colors.amber[900]),
       home: HomePage(),
     );
   }
