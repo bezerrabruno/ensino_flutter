@@ -1,2 +1,4 @@
 # ensino_basico
-Um repositorio feito para auxiliar o estudo inicial.
+Um repositório feito para auxiliar o estudo inicial.
+
+Todos os Apps irão se basear na culculadora.
