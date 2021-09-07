@@ -1,2 +1,2 @@
 # ensino_basico
-Um app feito para auxiliar o estudo inicial.
+Um repositorio feito para auxiliar o estudo inicial.
