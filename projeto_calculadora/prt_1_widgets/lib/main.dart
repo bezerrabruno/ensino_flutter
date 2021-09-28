@@ -9,7 +9,9 @@ void main() => runApp(const AppWidget());
 // Inicia o Material e a page inicial.
 // E em alguns casos outros componentes como o theme por exemplo.
 class AppWidget extends StatelessWidget {
-  const AppWidget({Key? key}) : super(key: key);
+  const AppWidget({
+    Key? key,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
